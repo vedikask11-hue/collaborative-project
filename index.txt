@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Team Project</title>
+</head>
+<body>
+    <h1>Welcome to our Collaborative Project</h1>
+    <p>This project demonstrates GitHub collaboration.</p>
+    <h2>Developed by Student 1</h2>
+</body>
+</html>
