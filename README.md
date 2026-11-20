@@ -70,5 +70,7 @@ This project demonstrates how two students can
 
 collaborate effectively using GitHub.
 
+\##GitHub actions
 
+GitHub actions automatically runs
 
